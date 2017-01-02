@@ -9,7 +9,10 @@ and trying to follow it and to alter it to the more recent way of doing such kin
 Created repo for this project https://github.com/beskyd/simple-website and started working on it.
 
 
+### Day 2: January 2nd, 2017
 
+**Today's progress* : Started Wes Bos's Javascript30 tutorials. Working on lesson 1 JS Drum Kit
+Repo for this project https://github.com/beskyd/javascript30
 
 
 
