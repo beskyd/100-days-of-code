@@ -11,7 +11,7 @@ Created repo for this project https://github.com/beskyd/simple-website and start
 
 ### Day 2: January 2nd, 2017
 
-**Today's progress* : Started Wes Bos's Javascript30 tutorials. Working on lesson 1 JS Drum Kit
+**Today's progress* : Started Wes Bos's Javascript30 tutorials. Working on lesson 1 JS Drum Kit. 
 Repo for this project https://github.com/beskyd/javascript30
 
 
