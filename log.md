@@ -8,11 +8,14 @@
 and trying to follow it and to alter it to the more recent way of doing such kind of things.
 Created repo for this project https://github.com/beskyd/simple-website and started working on it.
 
-
 ### Day 2: January 2nd, 2017
 
 **Today's progress* : Started Wes Bos's Javascript30 tutorials. Working on lesson 1 JS Drum Kit. 
 Repo for this project https://github.com/beskyd/javascript30
+
+### Day 3: January 3rd, 2017
+
+**Today's progress* : Continue working on lesson 1 JS Drum Kit. Have some problems with browser's sound playing.
 
 
 
