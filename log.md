@@ -17,7 +17,9 @@ Repo for this project https://github.com/beskyd/javascript30
 
 **Today's progress* : Continue working on lesson 1 JS Drum Kit. Have some problems with browser's sound playing.
 
+### Day 4: January 4th, 2017
 
+**Today's progress* : Finished working on lesson 1 JS Drum Kit. 
 
 
 
