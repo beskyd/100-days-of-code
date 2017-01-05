@@ -4,7 +4,7 @@
 
 ### Day 1: January 1st, 2017
 
-**Today's Progress" : Wanted to refresh my html and css knowledge, found outdated tutorial on tuts+ https://code.tutsplus.com/tutorials/design-and-code-your-first-website-in-easy-to-understand-steps--net-6062 
+**Today's Progress* : Wanted to refresh my html and css knowledge, found outdated tutorial on tuts+ https://code.tutsplus.com/tutorials/design-and-code-your-first-website-in-easy-to-understand-steps--net-6062 
 and trying to follow it and to alter it to the more recent way of doing such kind of things.
 Created repo for this project https://github.com/beskyd/simple-website and started working on it.
 
@@ -20,6 +20,10 @@ Repo for this project https://github.com/beskyd/javascript30
 ### Day 4: January 4th, 2017
 
 **Today's progress* : Finished working on lesson 1 JS Drum Kit. 
+
+### Day 5: January 5th, 2017
+
+**Todays's progress* : Done lesson 2 CSS+JS Clock of Wes Bos's JavaScript30 tutorials.
 
 
 
