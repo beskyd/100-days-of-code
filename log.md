@@ -25,6 +25,9 @@ Repo for this project https://github.com/beskyd/javascript30
 
 **Todays's progress* : Done lesson 2 CSS+JS Clock of Wes Bos's JavaScript30 tutorials.
 
+### Day 6: January 6th, 2017
+
+**Today's progress* : Made a break from Javascript30. Fumbled a little with python and databases for my friend's project I am  helping him with .
 
 
 
