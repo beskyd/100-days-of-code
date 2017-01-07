@@ -27,8 +27,11 @@ Repo for this project https://github.com/beskyd/javascript30
 
 ### Day 6: January 6th, 2017
 
-**Today's progress* : Made a break from Javascript30. Fumbled a little with python and databases for my friend's project I am  helping him with .
+**Today's progress* : Made a break from JavaScript30. Fumbled a little with python and databases for my friend's project I am  helping him with .
 
+### Day 7: Janyary 7th, 2017
+
+**Today's progress * : JavaScript30 lesson 3: CSS variables and JS. Also continue working on the side project with my friend.
 
 
 
