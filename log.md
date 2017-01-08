@@ -33,7 +33,9 @@ Repo for this project https://github.com/beskyd/javascript30
 
 **Today's progress * : JavaScript30 lesson 3: CSS variables and JS. Also continue working on the side project with my friend.
 
+### Day 8: January 8th, 2017
 
+**Today's progress* : Mostly python and databases again. Filtering results, generating db from xls and so on. Started lesson 4 of JavaScript30. Finished 6 problems out of 8. 
 
 
 
