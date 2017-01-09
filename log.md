@@ -37,6 +37,10 @@ Repo for this project https://github.com/beskyd/javascript30
 
 **Today's progress* : Mostly python and databases again. Filtering results, generating db from xls and so on. Started lesson 4 of JavaScript30. Finished 6 problems out of 8. 
 
+### Day 9: January 9th, 2017
+
+**Today's progress* : Again python and databases mostly today. Also finished JavaScript30 lesson 4. The solution of the last (8th) problem really impressed me. Never thought reduce() method could be so powerful and elegant.
+
 
 
 
