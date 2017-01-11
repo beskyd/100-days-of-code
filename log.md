@@ -45,6 +45,10 @@ Repo for this project https://github.com/beskyd/javascript30
 
 **Today's progress* : A lot of python scripting and unfortunately no time for JavaScript30.
 
+### Day 11: January 11th, 2017
+
+**Today's progress* : JavaScript30 lesson 5 FlexPanels. Really enjoyed it. Magic with flexbox and JS.
+
 
 
 
