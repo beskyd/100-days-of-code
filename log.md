@@ -2,52 +2,66 @@
 
 
 
-### Day 1: January 1st, 2017
+### Day 12: January 13th, 2017
 
-**Today's Progress* : Wanted to refresh my html and css knowledge, found outdated tutorial on tuts+ https://code.tutsplus.com/tutorials/design-and-code-your-first-website-in-easy-to-understand-steps--net-6062 
-and trying to follow it and to alter it to the more recent way of doing such kind of things.
-Created repo for this project https://github.com/beskyd/simple-website and started working on it.
+*** Today's progress * : Two lessons from JavaScript30 -- lesson 6 and lesson 7. Lesson 6 was a bit advanced for me. Nevertheless I enjoyed it. Also some pythoning with databases today.
+
+### Day 11: January 11th, 2017
+
+**Today's progress* : JavaScript30 lesson 5 FlexPanels. Really enjoyed it. Magic with flexbox and JS.
+
+### Day 10: January 10th, 2017
+
+**Today's progress* : A lot of python scripting and unfortunately no time for JavaScript30.
+
+### Day 9: January 9th, 2017
+
+**Today's progress* : Again python and databases mostly today. Also finished JavaScript30 lesson 4. The solution of the last (8th) problem really impressed me. Never thought reduce() method could be so powerful and elegant.
+
+### Day 8: January 8th, 2017
+
+**Today's progress* : Mostly python and databases again. Filtering results, generating db from xls and so on. Started lesson 4 of JavaScript30. Finished 6 problems out of 8. 
+
+### Day 7: Janyary 7th, 2017
+
+**Today's progress * : JavaScript30 lesson 3: CSS variables and JS. Also continue working on the side project with my friend.
+
+### Day 6: January 6th, 2017
+
+**Today's progress* : Made a break from JavaScript30. Fumbled a little with python and databases for my friend's project I am  helping him with .
+
+### Day 5: January 5th, 2017
+
+**Todays's progress* : Done lesson 2 CSS+JS Clock of Wes Bos's JavaScript30 tutorials.
+
+### Day 4: January 4th, 2017
+
+**Today's progress* : Finished working on lesson 1 JS Drum Kit. 
+
+### Day 3: January 3rd, 2017
+
+**Today's progress* : Continue working on lesson 1 JS Drum Kit. Have some problems with browser's sound playing.
 
 ### Day 2: January 2nd, 2017
 
 **Today's progress* : Started Wes Bos's Javascript30 tutorials. Working on lesson 1 JS Drum Kit. 
 Repo for this project https://github.com/beskyd/javascript30
 
-### Day 3: January 3rd, 2017
+### Day 1: January 1st, 2017
 
-**Today's progress* : Continue working on lesson 1 JS Drum Kit. Have some problems with browser's sound playing.
+**Today's Progress* : Wanted to refresh my html and css knowledge, found outdated tutorial on tuts+ https://code.tutsplus.com/tutorials/design-and-code-your-first-website-in-easy-to-understand-steps--net-6062 
+and trying to follow it and to alter it to the more recent way of doing such kind of things.
+Created repo for this project https://github.com/beskyd/simple-website and started working on it.
 
-### Day 4: January 4th, 2017
 
-**Today's progress* : Finished working on lesson 1 JS Drum Kit. 
 
-### Day 5: January 5th, 2017
 
-**Todays's progress* : Done lesson 2 CSS+JS Clock of Wes Bos's JavaScript30 tutorials.
 
-### Day 6: January 6th, 2017
 
-**Today's progress* : Made a break from JavaScript30. Fumbled a little with python and databases for my friend's project I am  helping him with .
 
-### Day 7: Janyary 7th, 2017
 
-**Today's progress * : JavaScript30 lesson 3: CSS variables and JS. Also continue working on the side project with my friend.
 
-### Day 8: January 8th, 2017
 
-**Today's progress* : Mostly python and databases again. Filtering results, generating db from xls and so on. Started lesson 4 of JavaScript30. Finished 6 problems out of 8. 
-
-### Day 9: January 9th, 2017
-
-**Today's progress* : Again python and databases mostly today. Also finished JavaScript30 lesson 4. The solution of the last (8th) problem really impressed me. Never thought reduce() method could be so powerful and elegant.
-
-### Day 10: January 10th, 2017
-
-**Today's progress* : A lot of python scripting and unfortunately no time for JavaScript30.
-
-### Day 11: January 11th, 2017
-
-**Today's progress* : JavaScript30 lesson 5 FlexPanels. Really enjoyed it. Magic with flexbox and JS.
 
 
 
