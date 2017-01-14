@@ -2,6 +2,11 @@
 
 
 
+
+### Day 13: January 14th, 2017
+
+*** Today's progress* : Lesson 7 from JavaScript30 and pythoning a lot.
+
 ### Day 12: January 13th, 2017
 
 *** Today's progress * : Two lessons from JavaScript30 -- lesson 6 and lesson 7. Lesson 6 was a bit advanced for me. Nevertheless I enjoyed it. Also some pythoning with databases today.
