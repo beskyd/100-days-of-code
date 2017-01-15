@@ -2,10 +2,13 @@
 
 
 
+### Day 14: January 15th, 2017
+
+*** Today's progress* : Not much today. Short Lesson 9 from JavaScript30 and a few lines with python scripting.
 
 ### Day 13: January 14th, 2017
 
-*** Today's progress* : Lesson 7 from JavaScript30 and pythoning a lot.
+*** Today's progress* : Lesson 8 from JavaScript30 and pythoning a lot.
 
 ### Day 12: January 13th, 2017
 
