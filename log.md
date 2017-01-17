@@ -2,6 +2,10 @@
 
 
 
+### Day 15: January 16th, 2017
+
+*** Today's progress * : A lot of pythoning with databases. Sometimes it drives me mad. Had to overcome some diffuculties. Felt stuck and stayed late night. No JavaScript30 lessons because of that. 
+
 ### Day 14: January 15th, 2017
 
 *** Today's progress* : Not much today. Short Lesson 9 from JavaScript30 and a few lines with python scripting.
