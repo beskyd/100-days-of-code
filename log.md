@@ -1,6 +1,9 @@
 # 100 Days Of Code - Log
 
 
+### Day 16: January 17th, 2017
+
+*** Today's progress * : Again python and databases. No JavaScript30 unfortunately. Hope I will return to it soon.
 
 ### Day 15: January 16th, 2017
 
