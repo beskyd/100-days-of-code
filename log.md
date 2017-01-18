@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+
+
+### Day 17: January 18th, 2017
+
+*** Today's progress * : Freed of python today. Back to JavaScript30. Lesson 10 : Hold shift to check multiple checkboxes. Another piece of magic from Wes Bos! Amazing work with logical flags. Enjoyed it very much. 
+
 ### Day 16: January 17th, 2017
 
 *** Today's progress * : Again python and databases. No JavaScript30 unfortunately. Hope I will return to it soon.
@@ -11,11 +17,11 @@
 
 ### Day 14: January 15th, 2017
 
-*** Today's progress* : Not much today. Short Lesson 9 from JavaScript30 and a few lines with python scripting.
+*** Today's progress * : Not much today. Short Lesson 9 from JavaScript30 and a few lines with python scripting.
 
 ### Day 13: January 14th, 2017
 
-*** Today's progress* : Lesson 8 from JavaScript30 and pythoning a lot.
+*** Today's progress * : Lesson 8 from JavaScript30 and pythoning a lot.
 
 ### Day 12: January 13th, 2017
 
