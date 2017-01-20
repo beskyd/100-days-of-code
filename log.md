@@ -3,6 +3,14 @@
 
 
 
+### Day 19: January 20th, 2017
+
+*** Today's progress * : Lesson 12 of JavaScript30.
+
+### Day 18: January 19th, 2017
+
+*** Today's progress * : Lesson 11 of JavaScript30.
+
 ### Day 17: January 18th, 2017
 
 *** Today's progress * : Freed of python today. Back to JavaScript30. Lesson 10 : Hold shift to check multiple checkboxes. Another piece of magic from Wes Bos! Amazing work with logical flags. Enjoyed it very much. 
