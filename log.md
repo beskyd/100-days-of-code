@@ -2,6 +2,9 @@
 
 
 
+### Day 20: January 21st, 2017
+
+*** Today's progress * : Lesson 13 of JavaScript30.
 
 ### Day 19: January 20th, 2017
 
