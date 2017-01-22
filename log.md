@@ -2,6 +2,10 @@
 
 
 
+### Day 21: January 22nd, 2017
+
+*** Today's progress * : Lesson 14 of JavaScript30. Weird behaviour of array and objects copies.
+
 ### Day 20: January 21st, 2017
 
 *** Today's progress * : Lesson 13 of JavaScript30.
