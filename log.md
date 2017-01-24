@@ -2,6 +2,11 @@
 
 
 
+### Day 22: January 23rd, 2017
+
+*** Today's progress * : Lesson 15 of JavaScript30. Learned many new things. Local storage and event delegation. Solved additional challenges of this lesson.
+Side note: very nice and fast wat to empty an array is A.length = 0
+
 ### Day 21: January 22nd, 2017
 
 *** Today's progress * : Lesson 14 of JavaScript30. Weird behaviour of array and objects copies.
