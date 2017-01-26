@@ -2,6 +2,10 @@
 
 
 
+### Day 23: January 25th, 2017
+
+*** Today's progress * : Lesson 16 of JavaScript30. Learned about offsetX,Y offsetWidth,Height.
+
 ### Day 22: January 23rd, 2017
 
 *** Today's progress * : Lesson 15 of JavaScript30. Learned many new things. Local storage and event delegation. Solved additional challenges of this lesson.
