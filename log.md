@@ -2,6 +2,10 @@
 
 
 
+### Day 24: January 26th, 2017
+
+*** Today's progress * : Lesson 17 of JavaScript30.
+
 ### Day 23: January 25th, 2017
 
 *** Today's progress * : Lesson 16 of JavaScript30. Learned about offsetX,Y offsetWidth,Height.
