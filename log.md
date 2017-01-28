@@ -2,6 +2,11 @@
 
 
 
+
+### Day 25: January 28th, 2017
+
+*** Today's progress * : Lesson 18 of JavaScript30.
+
 ### Day 24: January 26th, 2017
 
 *** Today's progress * : Lesson 17 of JavaScript30.
