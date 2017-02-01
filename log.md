@@ -3,6 +3,11 @@
 
 
 
+
+### Day 26: February 1st, 2017
+
+*** Today's progress * : Lesson 20 of JavaScript30. Had to skip lesson 19 because of its length and my lack of time. Do it on the day I have more time to code. Also some pythoning with databases.
+
 ### Day 25: January 28th, 2017
 
 *** Today's progress * : Lesson 18 of JavaScript30.
