@@ -3,6 +3,9 @@
 
 
 
+### Day 27: February 6th, 2017
+
+*** Today's progress * : Some pythoning and lesson 21 of JavaScript30
 
 ### Day 26: February 1st, 2017
 
