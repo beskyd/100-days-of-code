@@ -2,6 +2,9 @@
 
 
 
+### Day 28: February 7th, 2017
+
+*** Today's progress * : Python and databases. 
 
 ### Day 27: February 6th, 2017
 
