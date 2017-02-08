@@ -2,6 +2,11 @@
 
 
 
+
+### Day 29: February 8th, 2017
+
+*** Today's progress * : Python and databases. Lesson 19 of JavaScript30. The long one. 30 minutes. Fun with webcam.
+
 ### Day 28: February 7th, 2017
 
 *** Today's progress * : Python and databases. 
