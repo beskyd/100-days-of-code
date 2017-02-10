@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 31: February 10th, 2017
+
+*** Today's progress * : Lesson 23 of JavaScript30.
+
 ### Day 30: February 9th, 2017
 
 *** Today's progress * : Python and databases. Lesson 22 of JavaScript30.
