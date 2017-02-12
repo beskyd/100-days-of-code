@@ -1,7 +1,9 @@
 # 100 Days Of Code - Log
 
 
+### Day 33: February 12th, 2017
 
+**Today's progress** : Lesson 25 of JavaScript30 and some CSS refresher.
 
 ### Day 32: February 11th, 2017
 
