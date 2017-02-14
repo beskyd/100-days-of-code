@@ -2,6 +2,10 @@
 
 
 
+### Day 35: February 14th, 2017
+
+**Today's progress** : Lesson 27 of JavaScript30
+
 ### Day 34: February 13th, 2017
 
 **Today's progress** : Lesson 26 of JavaScript30
