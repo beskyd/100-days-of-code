@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
+ 
 
 
+
+### Day 36: February 15th, 2017
+
+**Today's progress** : Lesson 28 of JavaScript30
 
 ### Day 35: February 14th, 2017
 
