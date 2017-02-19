@@ -1,9 +1,13 @@
 # 100 Days Of Code - Log
  
 
+### Day 38: February 19th, 2017
+
+**Today's progress**: Lesson 30 of JavaScript30. Finished this challenge today! Wow, this was amazing! ;)
+
 ### Day 37: February 17th, 2017
 
-**Today's progress**: Lesson 29 of Javascript30
+**Today's progress**: Lesson 29 of JavaScript30
 
 ### Day 36: February 15th, 2017
 
