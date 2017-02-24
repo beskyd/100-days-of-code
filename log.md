@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
  
+ 
+ 
+ 
+### Day 39: February 24th, 2017
+
+**Today's progress** : Tried Pure CSS Images. Followed a Beginners Guide by Michael Mangialardi.
 
 ### Day 38: February 19th, 2017
 
