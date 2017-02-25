@@ -1,7 +1,10 @@
 # 100 Days Of Code - Log
  
  
- 
+
+### Day 40: February 25th, 2017
+
+**Today's progress** : Pure CSS Images. An Intermediate Guide by Michael Mangialardi.
  
 ### Day 39: February 24th, 2017
 
