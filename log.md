@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
  
  
+ 
+### Day 41: February 26th, 2017
+
+**Today's progress** : Pure CSS Images. Day 1 of Daily CSS Images challenge (Bear Cub).
 
 ### Day 40: February 25th, 2017
 
