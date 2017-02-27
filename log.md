@@ -2,6 +2,9 @@
  
  
  
+### Day 42: February 27th, 2017
+
+**Today's progress** : Pure CSS Images. Started Day 2 challenge of #dailycssimages (Elephant).
 ### Day 41: February 26th, 2017
 
 **Today's progress** : Pure CSS Images. Day 1 of Daily CSS Images challenge (Bear Cub).
