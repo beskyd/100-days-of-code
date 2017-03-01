@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
  
- 
+
+
+### Day 43: March 1st, 2017
+
+**Today's progress**: Finished Day 2 challenge #dailycssimages (Elephant). Started An Advanced Guide by M. Mangaliardy.
  
 ### Day 42: February 27th, 2017
 
