@@ -2,6 +2,11 @@
  
 
 
+
+### Day 44: March 2nd, 2017:
+
+**Today's progress** : Continued An Advanced Guide to CSS Images by M. Mangaliardi. Learned some vue.js. Also read about ::before and ::after pseudo-elements. 
+
 ### Day 43: March 1st, 2017
 
 **Today's progress**: Finished Day 2 challenge #dailycssimages (Elephant). Started An Advanced Guide by M. Mangaliardy.
