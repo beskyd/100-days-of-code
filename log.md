@@ -3,6 +3,10 @@
 
 
 
+### Day 45: March 3rd, 2017
+
+**Today's progress** : Finished An Advanced Guide to CSS Images by M. Mangaliardi. Started introductory vue.js video series on Youtube.
+
 ### Day 44: March 2nd, 2017:
 
 **Today's progress** : Continued An Advanced Guide to CSS Images by M. Mangaliardi. Learned some vue.js. Also read about ::before and ::after pseudo-elements. 
