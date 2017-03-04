@@ -3,6 +3,10 @@
 
 
 
+### Day 46: March 4th, 2017
+
+**Today's progress** : Learn Vue.js. Started to fiddle with vue.js around on my own.
+
 ### Day 45: March 3rd, 2017
 
 **Today's progress** : Finished An Advanced Guide to CSS Images by M. Mangaliardi. Started introductory vue.js video series on Youtube.
