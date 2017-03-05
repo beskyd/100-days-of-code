@@ -3,6 +3,10 @@
 
 
 
+### Day 47: March 5th, 2017
+
+**Today's progress**: Two lessons on vue.js
+
 ### Day 46: March 4th, 2017
 
 **Today's progress** : Learn Vue.js. Started to fiddle with vue.js around on my own.
