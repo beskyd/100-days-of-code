@@ -1,7 +1,14 @@
 # 100 Days Of Code - Log
  
+ 
 
+### Day49: March 7th, 2017
 
+**Today's progress**: One lesson on vue.js
+
+### Day 48: March 6th, 2017
+
+**Today's progress**: Two lessons on vue.js
 
 ### Day 47: March 5th, 2017
 
