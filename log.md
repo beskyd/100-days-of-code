@@ -2,7 +2,7 @@
  
 
 
-### Day 51: March 10th, 2017
+### Day 51: March 11th, 2017
 
 **Today's progress** : Continue to fumble with my vue.js app
 
