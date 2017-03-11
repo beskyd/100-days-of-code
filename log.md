@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
  
- 
 
-### Day49: March 7th, 2017
+
+### Day 51: March 10th, 2017
+
+**Today's progress** : Continue to fumble with my vue.js app
+
+### Day 50: March 10th, 2017
+
+**Today's progress** : Fumbling with vue.js app
+
+### Day 49: March 7th, 2017
 
 **Today's progress**: One lesson on vue.js
 
