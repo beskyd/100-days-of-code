@@ -2,6 +2,14 @@
  
 
 
+### Day 53: March 13th, 2017
+
+**Today's progress**: Finished Front-End Foundations by Code School. Started watching "Build a portfolio web page with html and css" screencast by Code School.
+
+### Day 52: March 12th, 2017
+
+**Today's progress**: Started Front-End Foundations by Code School.
+
 ### Day 51: March 11th, 2017
 
 **Today's progress** : Continue to fumble with my vue.js app
