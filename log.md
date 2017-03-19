@@ -2,6 +2,22 @@
  
 
 
+### Day 57: March 19th, 2017: 
+
+**Today's progress**: Finished CSS Cross Country by Code School.
+
+### Day 56: March 17th, 2017:
+
+**Today's progress**: Started CSS Cross Country by Code School.
+
+### Day 55: March 15th, 2017:
+
+**Today's progress**: Finished Front-End Formations by Code School.
+
+### Day 54: March 14th, 2017
+
+**Today's progress**: Finished "Build a portfolio web page with html and css" screencast by Code School. Started Front-End Formations by Code School.
+
 ### Day 53: March 13th, 2017
 
 **Today's progress**: Finished Front-End Foundations by Code School. Started watching "Build a portfolio web page with html and css" screencast by Code School.
