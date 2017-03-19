@@ -1,8 +1,11 @@
 # 100 Days Of Code - Log
  
 
+### Day 58: March 19th, 2017:
 
-### Day 57: March 19th, 2017: 
+**Today's progress**: Code School's Journey into Mobile. CSS-tricks posts on creating pure css tabs.
+
+### Day 57: March 18th, 2017: 
 
 **Today's progress**: Finished CSS Cross Country by Code School.
 
