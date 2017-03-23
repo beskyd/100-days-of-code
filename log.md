@@ -2,10 +2,13 @@
  
 
 
+### Day 62: March 23rd, 2017
+
+**Today's progress**: Wes Bos's Flexbox course.
 
 ### Day 61: March 22nd, 2017
 
-**Today's progress**: Code School's Flexbox course levels 3 and 4. Wes Bos's Flexbox course.
+**Today's progress**: Code School's Flexbox course levels 3, 4 and 5. Finished it! Also Wes Bos's Flexbox course.
 
 ### Day 60: March 21st, 2017
 
