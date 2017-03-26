@@ -2,7 +2,9 @@
  
 
 
+### Day 64: March 25th, 2017
 
+**Today's progress**: Wes Bos' Flexbox course again.
 
 ### Day 63: March 24th, 2017
 
