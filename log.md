@@ -3,9 +3,17 @@
 
 
 
+### Day 67: March 29th, 2017
+
+**Today's progress**: Wes Bos' Flexbox course: lesson 15 - mobile content reordering with Flexbox.
+
+### Day 66: March 27th, 2017
+
+**Today's progress**: Wes Bos' Flexbox course: lesson 14 - pure flexbox navigation.
+
 ### Day 65: March 26th, 2017
 
-**Today's progress**: Wes Bos' Flexbox course. Enjoyed his lesson on creating grunt tasks very much.
+**Today's progress**: Wes Bos' Flexbox course. Enjoyed his lesson on creating gulp tasks very much.
 
 ### Day 64: March 25th, 2017
 
