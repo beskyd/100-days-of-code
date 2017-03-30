@@ -3,6 +3,10 @@
 
 
 
+### Day 68: March 30th, 2017 
+
+**Today's progress**: Wes Bos' Flexbox course: lesson 16.
+
 ### Day 67: March 29th, 2017
 
 **Today's progress**: Wes Bos' Flexbox course: lesson 15 - mobile content reordering with Flexbox.
