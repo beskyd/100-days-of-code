@@ -3,6 +3,10 @@
 
 
 
+### Day 69: March 31st, 2017
+
+**Today's progress**: Wes Bos' Flexbox course: lesson 16. Databases and python.
+
 ### Day 68: March 30th, 2017 
 
 **Today's progress**: Wes Bos' Flexbox course: lesson 16.
