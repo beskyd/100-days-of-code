@@ -2,6 +2,11 @@
  
 
 
+
+### Day 71: April 2nd, 2017
+
+**Today's progress**: Python and databases.
+
 ### Day 70: April 1st, 2017
 
 **Today's progress**: Wes Bos' Flexbox course: lessons 18, 19. 20. Finished the course. It was great! Also did some databases and python.
