@@ -3,6 +3,10 @@
 
 
 
+### Day 72: April 4th, 2017
+
+**Today's progress**: Wes Bos' Mastering Markdown course.
+
 ### Day 71: April 2nd, 2017
 
 **Today's progress**: Python and databases.
