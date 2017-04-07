@@ -2,6 +2,12 @@
  
 
 
+
+
+### Day 74: April 6th, 2017
+
+**Today's progress**: Wes Bos' Mastering Markdown course.
+
 ### Day 73: April 5th, 2017
 
 **Today's progress**: Wes Bos' Mastering Markdown course. Moodle e-learning platform introduction.
