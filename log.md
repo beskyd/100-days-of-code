@@ -3,6 +3,11 @@
 
 
 
+
+### Day 78: April 10th, 2017
+
+**Today's progress**: Wes Bos' Mastering Markdown course. Python scripting.
+
 ### Day 77: April 9th, 2017
 
 **Today's progress**: Wes Bos' Mastering Markdown course. Python scripting. Learn about moodle and course creation.
