@@ -3,6 +3,9 @@
 
 
 
+### Day 79: April 11th, 2017
+
+**Today's progress**: Python scripting. Codeschool's Try PHP course.
 
 ### Day 78: April 10th, 2017
 
