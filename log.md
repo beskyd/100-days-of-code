@@ -3,6 +3,10 @@
 
 
 
+### Day 80: April 12th, 2017
+
+**Today's progress**: Finished Codeschool's Try PHP course.
+
 ### Day 79: April 11th, 2017
 
 **Today's progress**: Python scripting. Codeschool's Try PHP course.
