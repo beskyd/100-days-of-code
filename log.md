@@ -3,6 +3,10 @@
 
 
 
+### Day 81: April 13th, 2017
+
+**Today's progress**: Codeschool Close Encounters with PHP course.
+
 ### Day 80: April 12th, 2017
 
 **Today's progress**: Finished Codeschool's Try PHP course.
