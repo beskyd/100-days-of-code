@@ -3,6 +3,12 @@
 
 
 
+
+
+### Day 82: April 14th, 2017
+
+**Today's progress**: Codeschool Close Encounters with PHP course.
+
 ### Day 81: April 13th, 2017
 
 **Today's progress**: Codeschool Close Encounters with PHP course.
