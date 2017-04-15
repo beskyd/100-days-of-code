@@ -1,17 +1,19 @@
 # 100 Days Of Code - Log
- 
 
 
 
 
+### Day 83: April 15th, 2017
+
+**Today's progress**: Codeschool Close Encounters with PHP course levels 4 and 5.
 
 ### Day 82: April 14th, 2017
 
-**Today's progress**: Codeschool Close Encounters with PHP course.
+**Today's progress**: Codeschool Close Encounters with PHP course levels 2 and 3.
 
 ### Day 81: April 13th, 2017
 
-**Today's progress**: Codeschool Close Encounters with PHP course.
+**Today's progress**: Codeschool Close Encounters with PHP course level 1.
 
 ### Day 80: April 12th, 2017
 
