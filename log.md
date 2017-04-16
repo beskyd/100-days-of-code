@@ -3,50 +3,9 @@
 
 
 
-### Day 83: April 15th, 2017
+### Day 84: April 16th, 2017
 
-**Today's progress**: Codeschool Close Encounters with PHP course levels 4 and 5.
-
-### Day 82: April 14th, 2017
-
-**Today's progress**: Codeschool Close Encounters with PHP course levels 2 and 3.
-
-### Day 81: April 13th, 2017
-
-**Today's progress**: Codeschool Close Encounters with PHP course level 1.
-
-### Day 80: April 12th, 2017
-
-**Today's progress**: Finished Codeschool's Try PHP course.
-
-### Day 79: April 11th, 2017
-
-**Today's progress**: Python scripting. Codeschool's Try PHP course.
-
-### Day 78: April 10th, 2017
-
-**Today's progress**: Wes Bos' Mastering Markdown course. Python scripting.
-
-### Day 77: April 9th, 2017
-
-**Today's progress**: Wes Bos' Mastering Markdown course. Python scripting. Learn about moodle and course creation.
-
-### Day 76: April 8th, 2017
-
-**Today's progress**: Wes Bos' Mastering Markdown course.
-
-### Day 75: April 7th, 2017
-
-**Today's progress**: Wes Bos' Mastering Markdown course. Python scripting. 
-
-### Day 74: April 6th, 2017
-
-**Today's progress**: Wes Bos' Mastering Markdown course.
-
-### Day 73: April 5th, 2017
-
-**Today's progress**: Wes Bos' Mastering Markdown course. Moodle e-learning platform introduction.
-
+**Today's progress**: Codeschool Build a Badge Viewer App With PHP Screencast. Learned about deploying to Heroku using git.Day
 ### Day 72: April 4th, 2017
 
 **Today's progress**: Wes Bos' Mastering Markdown course.
