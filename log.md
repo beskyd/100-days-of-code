@@ -2,6 +2,13 @@
 
 
 
+### Day 85: April 17th, 2017
+
+**Today's progress**: Codescooll PHP course code. Also python scripting.
+
+### Day 84: April 16th, 2017
+
+**Today's progress**: Codeschool Build a Badge Viewer App With PHP Screencast. Learned about deploying to Heroku using git.Day
 
 ### Day 83: April 15th, 2017
 
