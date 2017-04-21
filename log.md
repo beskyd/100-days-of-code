@@ -2,6 +2,18 @@
 
 
 
+### Day 89: April 21st, 2017
+
+**Today's progress**: Codescooll PHP course code.
+
+### Day 88: April 20th, 2017
+
+**Today's progress**: Codescooll PHP course code.
+
+### Day 87: April 19th, 2017
+
+**Today's progress**: Codescooll PHP course code.
+
 ### Day 86: April 18th, 2017
 
 **Today's progress**: Codescooll PHP course code.
