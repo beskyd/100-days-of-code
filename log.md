@@ -2,25 +2,37 @@
 
 
 
+### Day 92: April 24th, 2017
+
+**Today's progress**: Python and databases. Codeschool Try Django course.
+
+### Day 91: April 23rd, 2017
+
+**Today's progress**: Codeschool Try Django course.
+
+### Day 90: April 22nd, 2017
+
+**Today's progress**: Codeschool Try SQL course
+
 ### Day 89: April 21st, 2017
 
-**Today's progress**: Codescooll PHP course code.
+**Today's progress**: Codeschool PHP course code.
 
 ### Day 88: April 20th, 2017
 
-**Today's progress**: Codescooll PHP course code.
+**Today's progress**: Codeschool PHP course code.
 
 ### Day 87: April 19th, 2017
 
-**Today's progress**: Codescooll PHP course code.
+**Today's progress**: Codeschool PHP course code.
 
 ### Day 86: April 18th, 2017
 
-**Today's progress**: Codescooll PHP course code.
+**Today's progress**: Codeschool PHP course code.
 
 ### Day 85: April 17th, 2017
 
-**Today's progress**: Codescooll PHP course code. Also python scripting.
+**Today's progress**: Codeschool PHP course code. Also python scripting.
 
 ### Day 84: April 16th, 2017
 
