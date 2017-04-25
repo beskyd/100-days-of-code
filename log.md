@@ -2,6 +2,12 @@
 
 
 
+
+
+### Day 93: April 25th, 2017
+
+**Today's progress**: Codeschool Try Django course.
+
 ### Day 92: April 24th, 2017
 
 **Today's progress**: Python and databases. Codeschool Try Django course.
