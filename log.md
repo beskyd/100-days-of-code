@@ -4,6 +4,18 @@
 
 
 
+### Day 96: April 28th, 2017:
+
+**Today's progress**: WebUI/PHP testing. Python and databases.
+
+### Day 95: April 27th, 2017:
+
+**Today's progress**: PHP course at Codacademy.
+
+### Day 94: April 26th, 2017:
+
+**Today's progress**: Finished Try Django Course.
+
 ### Day 93: April 25th, 2017
 
 **Today's progress**: Codeschool Try Django course.
