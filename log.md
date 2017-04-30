@@ -3,6 +3,13 @@
 
 
 
+### Day 98: April 30th, 2017:
+
+**Today's progress**: Codeschool's Perform Data Analysis with SQL screencast finished. Codeschool's Sequel to SQL Started.
+
+### Day 97: April 29th, 2017:
+
+**Today's progress**: Codeschool's Perform Data Analysis with SQL screencast.
 
 ### Day 96: April 28th, 2017:
 
