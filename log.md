@@ -2,6 +2,9 @@
 
 
 
+### Day 99: May 1st, 2017:
+
+**Today's progress**: Codeschool's Sequel to SQL Level 2.
 
 ### Day 98: April 30th, 2017:
 
