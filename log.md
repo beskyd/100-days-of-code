@@ -2,27 +2,31 @@
 
 
 
-### Day 99: May 1st, 2017:
+### Day 100: May 2nd, 2017
+
+**Today's progress**: Finished Codeschool's Sequel to SQL Course.
+
+### Day 99: May 1st, 2017
 
 **Today's progress**: Codeschool's Sequel to SQL Level 2.
 
-### Day 98: April 30th, 2017:
+### Day 98: April 30th, 2017
 
 **Today's progress**: Codeschool's Perform Data Analysis with SQL screencast finished. Codeschool's Sequel to SQL Started.
 
-### Day 97: April 29th, 2017:
+### Day 97: April 29th, 2017
 
 **Today's progress**: Codeschool's Perform Data Analysis with SQL screencast.
 
-### Day 96: April 28th, 2017:
+### Day 96: April 28th, 2017
 
 **Today's progress**: WebUI/PHP testing. Python and databases.
 
-### Day 95: April 27th, 2017:
+### Day 95: April 27th, 2017
 
 **Today's progress**: PHP course at Codacademy.
 
-### Day 94: April 26th, 2017:
+### Day 94: April 26th, 2017
 
 **Today's progress**: Finished Try Django Course.
 
